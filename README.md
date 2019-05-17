@@ -1,6 +1,6 @@
 # FactorioMegaResearch
 
-![alt text](thumbnail.jpg "Mega Research")
+![alt text](thumbnail.png "Mega Research")
 
 Add technology research to help testing production and consumption of science packs when building a mega base of at least 1000 science per minute.
 
