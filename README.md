@@ -1,4 +1,4 @@
-# FactorioMegaResearch
+# Factorio Mega Research Mod
 
 ![alt text](thumbnail.png "Mega Research")
 
